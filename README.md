@@ -1,5 +1,5 @@
 # protobuf2json
-c++  protobuf to json   
+c++  protobuf 转 json   
 
 
 ## 依赖库 libprotobuf jsoncpp
